@@ -13,8 +13,8 @@ Personal resume website showcasing engineering background, technical expertise, 
 - Small JavaScript for interactivity (optional)
 
 ## Preview (Windows)
-Open the link below in your browser.
-https://anunez1990.github.io/Resume/
+- Open the link below in your browser.
+- https://anunez1990.github.io/Resume/
 
 ## Project structure (example)
 - `index.html` — main resume page
