@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if using)
+node_modules/
+
+# Logs, builds
+dist/
+build/
+npm-debug.log
+/*.log
+
