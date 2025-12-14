@@ -11,3 +11,9 @@ build/
 npm-debug.log
 /*.log
 
+# Allow compiled bootstrap/css in assets (needed for GitHub Pages)
+!assets/dist/
+!assets/dist/css/
+!assets/dist/css/*.css
+!assets/dist/css/*.map
+
