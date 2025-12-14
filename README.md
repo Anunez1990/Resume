@@ -27,5 +27,5 @@ Personal resume website showcasing engineering background, technical expertise, 
 - For larger changes, open an issue to discuss proposals first.
 
 ## Contact
-Alex V. Nunez — add email or LinkedIn link here
+Alex V. Nunez
 
